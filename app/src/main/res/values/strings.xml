@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="search_to_begin">Search to begin</string>
+    <string name="action_search">Search</string>
+    <string name="internet_string">No Network Available ..Please try again</string>
+    <string name="retry">Retry</string>
 </resources>
